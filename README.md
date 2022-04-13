@@ -1,8 +1,8 @@
 ### Hi there, I'm João Marinheiro 👋
 
-I'm a passionate software engineer with an interest in all things game development and computer graphics. I love developing games and game engines and I've made quite a few.
+I'm a gameplay programmer at Ubisoft with my main areas of interest being AI, game engines and computer graphics. I love developing games and engines and I've made quite a few.
 
-✈️ I'm currently working on __Windward Rush__, an old school arcade air racing game that brings back the fun couch multiplayer moments of games like Freaky Flyers and Diddy Kong Racing.
+✈️ I'm also currently working on __Windward Rush__, an old school arcade air racing game that brings back the fun couch multiplayer moments of games like Freaky Flyers and Diddy Kong Racing.
 
 __My main areas of expertise:__
 * 🤖 Godot Engine
